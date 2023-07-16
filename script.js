@@ -1,6 +1,6 @@
 function threeSum(arr, target) {
-  // Sort the array
-    nums.sort((a, b) => a - b);
+ // Sort the array
+    nums.sort();
     // Length of the array
     const n = nums.length;
     // Result
